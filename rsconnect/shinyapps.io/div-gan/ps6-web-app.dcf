@@ -1,0 +1,11 @@
+name: ps6-web-app
+title:
+username:
+account: div-gan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8569652
+bundleId: 6958643
+url: https://div-gan.shinyapps.io/ps6-web-app/
+when: 1678833332.15838
+lastSyncTime: 1678833332.15839
